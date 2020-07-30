@@ -58,7 +58,7 @@ group :test do
   gem 'chromedriver-helper'
   gem 'minitest-reporters'
   gem 'mini_backtrace'
-  gem 'guard-minitest'
+  gem 'guard-minitest', '2.3.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
